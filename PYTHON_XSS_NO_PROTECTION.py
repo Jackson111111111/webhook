@@ -1,2 +1,0 @@
-# <yes> <report> PYTHON_XSS_NO_PROTECTION ghuq23
-SECURE_BROWSER_XSS_FILTER = False
